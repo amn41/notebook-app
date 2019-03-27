@@ -1,0 +1,2 @@
+calysto_bash==0.2.0
+sanic==19.3.1
